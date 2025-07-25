@@ -63,7 +63,7 @@ Cloud Engineer with over 4 years of experience specialising in Azure, AWS, Terra
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sohaibsohail98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaib-sohail)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaibsohail)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sscontactenquiries@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaibsohail98)
 
